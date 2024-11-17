@@ -4,7 +4,7 @@
 
 ########## 구성 값 ##########
 
-assistant_id = "asst_fNX7OUgLbFSsm9Cy8Q5aIKj1"
+assistant_id = "asst_GScFDSQNosk9ysBOvCqBKrZU"
 title = "어시스턴트 챗봇"
 messages_base = [
     {
